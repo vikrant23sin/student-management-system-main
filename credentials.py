@@ -1,5 +1,5 @@
 # User Credentials
 host = 'localhost'
 user = 'root'
-password = '1234'
+password = ''
 database = 'student_management'
